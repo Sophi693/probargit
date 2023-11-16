@@ -1,1 +1,1 @@
-console.log("Un dia lluvioso");
+console.log("Dia lluvioso");
