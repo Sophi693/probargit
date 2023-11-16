@@ -1,1 +1,1 @@
-console.log("Lindo dia para ver el cielo nublado");
+console.log("Hola mundo");
